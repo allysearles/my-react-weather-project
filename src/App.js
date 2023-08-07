@@ -9,13 +9,13 @@ function App() {
 			<div className="container">
 				<Weather defaultCity="New York" />
 				<footer>
-					This project was coded by Ally Searles and is{" "}
+					This project was coded by <strong>Ally Searles</strong> and is{" "}
 					<a
 						href="https://github.com/allysearles/my-react-weather-project.git"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-						open-sourced{" "}
+						open-sourced.{" "}
 					</a>
 				</footer>
 			</div>
